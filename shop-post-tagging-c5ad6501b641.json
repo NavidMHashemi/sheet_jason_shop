@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "shop-post-tagging",
+  "private_key_id": "c5ad6501b641e24bb094685f41fba7b89a89524d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCtc73VYMA55AdW\n86LG9DG2CWQOU7AIfMsePTQU4zAe7Gyl3Q8S/sOTUMPffmF0P0LIwIsajRPKd+pg\nn/UgbZfb/DtxNrQ+CEW21qdV8z3mC4Tfe2/3o45x9B4y2/bur4Swb2bO4yKGb+VH\nEIT1KEk2b9ArpSDM0Ja3h6yjy3KSTnkPu8/GpI4beHgUnHGODJu0/l7+kxg1RFuj\nGLe0MnuhgqaBdp6mlAcTbzfBOLS+xbqYrg85dfFrrDP7qS0J0QKD+VnVqiNbrD2s\n2YjryZhjKDc9AY4fei7YQNdeO/QnDUb4xe9hMHzUAI+BoEEL19226MGEBPIyyiva\nhHhWc58xAgMBAAECggEABIza/8hCOrKN87y/+i6pSDB+YLbW0R4u+OvbnCmql0EW\nB5LhRJsM1+ZAQTJwTYukTZ5pd8iYKpFTQ3YmyNM/Ltzy1UE9YLw4UffXG3TeXJTU\nR0WWdh1jDP+9tBFbrL7LgRJnFMnWG8c/MUpQZpsIMqajxCVYky7sqUNkpsZdStO7\nn1OomRk25IBtKHS6B3lclRF1xec5M77JgDkmyE2gOvWsLNV/X1ftHZQrwsZiBd6x\nCVQ4kHbt0CA/Tnh/6rB94uFBXTqQf8ycHGAFyvp6UptqQCa5uoRqaArv1J3KSkfA\nigrzK4PRjqPbaHE1FKnJL3d1UpF+1kyVl3ir32tFbQKBgQDYv+wm4PCj6aS9qRVm\n2T1tFFqcnm26CFRl3ncnI2N/zk1Yz7Jtel58GfAW0gguAsvAgDRUIEqg8Hb8h2A1\nmYuLpx583ioS0mYz8Zt1HezbUghaBFtUbuaH9YszrNMSTjLvT7SA8we6rDgXVSm9\n5LgMTGI3xMqfMPXrBV81RpP/FQKBgQDM3KF5W/WB7lOvkVQel5D4SeXbtZQ/Pus7\no41Zs7PXXlWh5cguhCDtEClZAQlSGNJ+nY5CDOxJlhzrHAPRekLr9MUWS+ay3B8T\nhiOVwiIVBKfexl7YPACMRojWuKaULyKpShH1RDUuVsZEFnuSUqkqYoAqq0PLKh5s\nOrHi0g7GrQKBgCFoK0iuwMgyua51whOxBfOrAHBFRto2cHOm/yxsGujW7jrzACg5\nhRiRktyhkJsu2SKZX/dbZsU5as1vPBfmy4hBwMQ0Jb3y6ce1xGUfsKL5GMpvA3iX\nAzcPVF4pk/qtTNJvsX1yd82Av8Bw4tceynMyzqyTyzsP+8c2c78tWqAlAoGAI+w8\nVG+PqW0FN7AgNA0X2rH6oIBCsqRx009mpeghDQ75rR4B8EYzD97ZoUXRQJghsRon\nq+VgObcc8w1CjiUGPyH4vWQp3AtFV8MZ0lTsbQsX9LSMRRagcficXiqa6zkots7K\nP1vqh2mn8qCOoqXkDA6hstm9VY7ZLtlMAB4dgTECgYB8i1BPleIb0X4UE9xloMS8\nrz5oU7K1kOAxstfLiUrbVzbifyu39dogC6Jgxj8dC7dQxLjh1CaKwOgfA5lXQSWa\n51iE7ZmblWTbkJXpjWoopsF2wZ+3F+T7gllDR1ku6h2zSnYqHCaqguind5mv2w3M\naRyLxOoSQr/ax0oYHE5uDQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "shop-540@shop-post-tagging.iam.gserviceaccount.com",
+  "client_id": "117392967758093392665",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shop-540%40shop-post-tagging.iam.gserviceaccount.com"
+}
